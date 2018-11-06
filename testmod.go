@@ -6,5 +6,5 @@ import (
 
 //TestMe TODO: add
 func TestMe(name string) string {
-	return fmt.Sprintf("Hi, %s", name)
+	return fmt.Sprintf("Hi, %s. \n\nYou suck really bad!!!", name)
 }
